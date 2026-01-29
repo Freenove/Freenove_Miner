@@ -32,13 +32,8 @@ The following models are fully supported:
 
 🛒 **Purchase Links:**
 
-- https://store.freenove.com/products/fnk0103
-- https://store.freenove.com/products/fnk0112
-
-🛒 **Amazon**
-
-- https://www.amazon.com/Freenove-NerdMiner-Dual-core-Microcontroller-Tutorial/dp/B0FFZ599FJ
-- https://www.amazon.com/FREENOVE-Dual-core-Microcontroller-Programmable-Tutorial/dp/B0G918L5RW
+- https://freenove.com/buy/fnk0103
+- https://freenove.com/buy/fnk0112
 
 ### 📊 Performance Metrics
 
